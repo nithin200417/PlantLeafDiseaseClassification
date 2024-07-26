@@ -44,3 +44,7 @@ Run the notebooks to explore the following models:
 6. **Efficient-net implementation**
 - Files: `efficientnetplants.ipynb`
 - Description: This notebook changes the procedure which we hace used above here the image preprocessing is done with CLAHE and PCFAN but the object detection and the roi-extraction part was omitted and the efficient-net was used which gives better accuracy compared to the shufflenet-v2 model.
+
+## Contributing
+
+Contributions are welcome! If you’d like to improve the project, report issues, or add new features, please provide your support by contacting me.
