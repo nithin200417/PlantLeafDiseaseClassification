@@ -17,6 +17,13 @@ The classifier can classify the following 33 classes:
 - Peach (Bacterial Spot, Healthy)
 - Pepper Bell
 -and so on
+
+## Installation
+
+To set up the project, follow these steps:
+
+1. Clone the repository:
+git clone https://github.com/nithin200417/PlantLeafDiseaseClassification.git 
 ## Usage
 
 Run the notebooks to explore the following models:
